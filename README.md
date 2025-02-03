@@ -46,6 +46,9 @@ Users can connect with peers, share insights, and discover opportunities in a dy
 Connectify is built using a microservices architecture, ensuring modularity, scalability, and maintainability.
 It utilizes service discovery and resilient communication patterns to ensure a reliable user experience.
 
+![Microservices Architecture](https://github.com/pallavithorat/Connectify/raw/main/microservicesSysDesign.png)
+
+
 ## **Microservices Overview**
 - **API Gateway:** Routes requests to the appropriate microservices.
 
