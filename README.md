@@ -5,7 +5,7 @@ A professional networking platform designed to help individuals connect, collabo
 - [Key Feature](#key-feature)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [Microservices](#microservices)
+- [Microservices](#microservices-overview)
 
 ## **Project Overview**
 Connectify is a modern networking platform designed for professionals to foster meaningful collaborations and career growth.
