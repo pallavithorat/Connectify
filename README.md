@@ -26,7 +26,7 @@ Users can connect with peers, share insights, and discover opportunities in a dy
 
 ## **Tech Stack**
 
-- **Languages:** Java, PostgreSQL
+- **Languages:** Java
 
 - **Frameworks:** Spring Boot, Resilience4j
 
