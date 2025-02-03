@@ -2,7 +2,7 @@
 A professional networking platform designed to help individuals connect, collaborate, and grow their careers by building meaningful relationships and opportunities.
 ## **Table of Contents**
 - [Project Overview](#project-overview)
-- [Key Feature](#key-feature)
+- [Key Feature](#key-features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Microservices](#microservices-overview)
